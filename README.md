@@ -2,4 +2,4 @@
 
 ### Yonsei Univ. App.Stat. Deep Learning Project
 
-- 2020. 06
+2020. 06
